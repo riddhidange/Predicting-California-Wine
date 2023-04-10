@@ -5,16 +5,27 @@ Aim: This project focuses on identifying the demand and fluctuation of prices of
 Algorithms Implemented:
 
 Random Forest Classifier
+
 Random Forest with Randomized Search CV
+
 Logistic Regression with Grid Search CV
+
 Support Vector Classification with Grid Search CV
+
 K Nearest Neighbors with Grid Search CV
+
 AdaBoost Classifier
+
 Decision Tree
+
 Naive Bayes
+
 Artificial Neural Networks
+
 XGBoost Classifier
+
 Gradient Boosting Classifier
+
 Stochastic Gradient Descent
 
 
