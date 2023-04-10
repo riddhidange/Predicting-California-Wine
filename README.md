@@ -1,8 +1,9 @@
 # Predicting-California-Wine
 
-Aim: This project focuses on identifying the demand and fluctuation of prices of Californian wines by setting benchmarks and measuring the outcomes based on past trends. To support our findings, we will use the wine dataset to analyze and predict the increase/decrease in prices.
+### Aim:
+This project focuses on identifying the demand and fluctuation of prices of Californian wines by setting benchmarks and measuring the outcomes based on past trends. To support our findings, we will use the wine dataset to analyze and predict the increase/decrease in prices.
 
-Algorithms Implemented:
+### Algorithms Implemented:
 
 Random Forest Classifier
 
@@ -28,7 +29,9 @@ Gradient Boosting Classifier
 
 Stochastic Gradient Descent
 
+### Tech Stack:
+Languages: Python
+Libraries: Pandas, NumPy, Seaborn, Matplotlib 
 
-
-DATASET:
+### Dataset:
 https://www.kaggle.com/datasets/jarredpriester/california-wine-production-19802020
